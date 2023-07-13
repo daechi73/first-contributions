@@ -2,6 +2,7 @@
 
 Here are :
 - [V205Github](https://github.com/V205Github)
+- [JHong] (https://github.com/daechi73)
 - [Srikar](https://github.com/Srikar04)
 - [OkuM1](https://github.com/OkuM1)
 - [Niko Hoffrén](https://github.com/nikohoffren)
@@ -2820,3 +2821,4 @@ Athul
 - [Abdul Razzaq](https://github.com/razzaq-99)
 - [R.L.](https://github.com/theClawsmos)
 - [Vipul] (https://github.com/vipulbehalpande08)
+- [ecoArmGaming](https://github.com/ecoArcGaming)
