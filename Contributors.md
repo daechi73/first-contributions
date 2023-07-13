@@ -19,7 +19,7 @@ Here are :
 - [Eduardo Montano](https://github.com/edulol-1)
 - [Nihal]
 - [Keerthi Nannepamula](https://github.com/keerthinannepamula7)
-- [Iman] (https://github.com/iman2153)
+- [Iman](https://github.com/iman2153)
 - [Hassan Kazeem]
 - [Sean Crumley](https://github.com/907VigiL)
 - [Collins Ikechukwu](https://github.com/devcollinss)
